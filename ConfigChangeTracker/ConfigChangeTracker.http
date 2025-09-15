@@ -1,0 +1,6 @@
+@ConfigChangeTracker_HostAddress = http://localhost:5258
+
+GET {{ConfigChangeTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
